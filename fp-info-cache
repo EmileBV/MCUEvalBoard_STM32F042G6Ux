@@ -1,4 +1,4 @@
-25233386097773205
+25238622703923453
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -101318,6 +101318,13 @@ TLV74033PDBVR
 5
 5
 footprints
+GT-TS171E-H014-L1
+
+
+0
+4
+2
+footprints
 LED_B38G3RGB-10D0003H2U1930
 
 
@@ -101338,6 +101345,13 @@ Pogo_Pins_2x2_2.50mm
 0
 4
 4
+footprints
+R_0402_1005Metric
+Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
 footprints
 SAMESKY_UJ20-C-H-G-SMT-1-P16-TR
 
@@ -101373,3 +101387,10 @@ tag connect programming header pogo pins
 0
 6
 6
+footprints
+USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal
+USB 2.0 Type C Receptacle, GCT, 16P, top mounted, horizontal, 5A: https://gct.co/files/drawings/usb4105.pdf
+USB C Type-C Receptacle SMD USB 2.0 16P 16C USB4105-15-A USB4105-15-A-060 USB4105-15-A-120 USB4105-GF-A USB4105-GF-A-060 USB4105-GF-A-120
+0
+20
+17
