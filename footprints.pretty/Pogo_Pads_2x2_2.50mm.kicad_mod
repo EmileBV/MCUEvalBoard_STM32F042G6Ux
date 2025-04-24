@@ -1,0 +1,105 @@
+(footprint "Pogo_Pads_2x2_2.50mm"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -3 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "b37ea8d4-fdd7-4df3-bbe4-cc7f38022fb8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Pogo_Pads_2x2_2.50mm"
+		(at 0 3 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "762c2018-d76e-46eb-a885-a57a8be24698")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at -1.25 -1.25 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d877baac-fe43-4be3-81a2-57a028e8607c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at -1.25 -1.25 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9292da10-b7a5-4bf2-975a-77621183854a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_rect
+		(start -2.25 -2.25)
+		(end 2.25 2.25)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "6a432c6c-7be5-4420-be95-20cef5698098")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 4.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "c11a3aca-1340-48f1-8838-e88738b3b26a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd circle
+		(at -1.25 -1.25)
+		(size 1.2 1.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "42bf5d0d-ce26-43b7-a36e-526a90d9d0af")
+	)
+	(pad "2" smd circle
+		(at -1.25 1.25)
+		(size 1.2 1.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "1a250b9c-08e7-4c7e-90bb-a4ec1b334cd7")
+	)
+	(pad "3" smd circle
+		(at 1.25 1.25)
+		(size 1.2 1.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "ae377097-cb2b-4ef1-b82e-8ff421e593e3")
+	)
+	(pad "4" smd circle
+		(at 1.25 -1.25)
+		(size 1.2 1.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "90950536-f065-4d05-b9a8-7898301d3667")
+	)
+	(embedded_fonts no)
+)
