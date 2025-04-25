@@ -5398,7 +5398,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "1f51e904-fbd3-44c9-adba-1b54dba8d38c")
 		(property "Reference" "JP1"
 			(at 232.41 137.16 0)
@@ -5601,7 +5601,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "50113adb-3879-4d44-8e5f-759893bf4917")
 		(property "Reference" "JP3"
 			(at 232.41 147.32 0)
@@ -5806,7 +5806,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "74d1c00e-e891-4853-8fef-22357a7549d8")
 		(property "Reference" "JP2"
 			(at 232.41 142.24 0)
@@ -5941,7 +5941,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "78e8dc1b-427e-459b-ac54-e1f28ef95078")
 		(property "Reference" "JP5"
 			(at 232.41 157.48 0)
@@ -6847,7 +6847,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "d0f15e9e-c91d-44aa-bfc2-4f588fdb1b96")
 		(property "Reference" "JP4"
 			(at 232.41 152.4 0)
@@ -6915,7 +6915,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "d4d52721-3a46-4321-9621-486aaa82fe4d")
 		(property "Reference" "J3"

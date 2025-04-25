@@ -53,7 +53,6 @@
 			)
 		)
 	)
-	(attr exclude_from_pos_files exclude_from_bom)
 	(fp_line
 		(start -0.75 -1.25)
 		(end 0.75 -1.25)
@@ -84,6 +83,17 @@
 		(fill no)
 		(layer "F.CrtYd")
 		(uuid "8ab1b60e-700c-486b-bd2b-e766e74e1c1b")
+	)
+	(fp_rect
+		(start -1.5 -1.25)
+		(end 1.5 1.25)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "9dbf58e8-2006-4753-a0ea-3daa526aaebc")
 	)
 	(fp_text user "${REFERENCE}"
 		(at 0 3.5 0)

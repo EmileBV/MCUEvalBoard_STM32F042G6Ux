@@ -1397,7 +1397,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "0ab4ee32-385c-4207-86ca-a6e8cd637b39")
 		(property "Reference" "FID2"
@@ -1461,7 +1461,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "0c2568ff-6edf-4c68-900d-2be2e5e02cc0")
 		(property "Reference" "FID3"
@@ -2265,7 +2265,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "ceb98c10-66cc-4f32-8ca6-181f70051a7c")
 		(property "Reference" "FID1"
