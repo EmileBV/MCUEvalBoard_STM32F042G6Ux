@@ -5561,7 +5561,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "RC0402JR-07130RL"
 			(at 162.56 148.59 0)
 			(effects
 				(font
@@ -5901,7 +5901,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "RC-02K512JT"
 			(at 41.91 35.56 0)
 			(effects
 				(font
@@ -6322,7 +6322,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "0402WGJ0100TCE"
 			(at 162.56 153.67 0)
 			(effects
 				(font
@@ -6527,7 +6527,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "0402WGJ0100TCE"
 			(at 162.56 158.75 0)
 			(effects
 				(font

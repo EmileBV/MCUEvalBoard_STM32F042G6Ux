@@ -2036,7 +2036,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "RC-02K512JT"
 			(at 154.94 68.58 0)
 			(effects
 				(font
@@ -2103,7 +2103,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "RC-02K512JT"
 			(at 154.94 66.04 0)
 			(effects
 				(font
