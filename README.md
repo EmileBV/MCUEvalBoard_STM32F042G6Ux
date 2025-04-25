@@ -17,4 +17,6 @@ I'm also trying out panelizing boards with this project to optimize the order pr
 - Add .ioc file for the pre-wired functionalities
     - USB
     - TIM with PWM channels for RGB
+    - SWD
+    - BOOT0
     - Clocks
