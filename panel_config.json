@@ -1,12 +1,13 @@
 {
     "layout": {
         "rows": "2",
-        "cols": "6"
+        "cols": "5"
     },
     "tabs": {
         "type": "none"
     },
     "cuts": {
-        "type": "vcuts"
+        "type": "vcuts",
+        "layer": "User.1"
     }
 }
