@@ -12,3 +12,9 @@ I'm also trying out panelizing boards with this project to optimize the order pr
   - JLCPCB can't assemble 0201 on economical PCBA option.
 - Figure out why all footprints have the wrong rotation.
 - Enlarge USB-C port pads, they don't even extend past the part's pads right now, so it won't solder properly.
+- Add screenshots of the board for this README
+- Add cost estimates
+- Add .ioc file for the pre-wired functionalities
+    - USB
+    - TIM with PWM channels for RGB
+    - Clocks
