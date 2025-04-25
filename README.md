@@ -20,3 +20,4 @@ I'm also trying out panelizing boards with this project to optimize the order pr
     - SWD
     - BOOT0
     - Clocks
+- Create v1.0.0 release
